@@ -6,17 +6,15 @@
 
 2. Azar A T, Koubaa A, Ali Mohamed N, et al. Drone deep reinforcement learning: A review[J]. Electronics, 2021, 10(9): 999. [[Paper]](https://www.mdpi.com/2079-9292/10/9/999/pdf)
 
-
 ## RL Environments
 
 1. Rennie G. Autonomous control of simulated fixed wing aircraft using deep reinforcement learning[J]. 2018. [[Paper]](https://researchportal.bath.ac.uk/files/216919613/Rennie_Gordon.pdf) [[Code]](https://github.com/Gor-Ren/gym-jsbsim)
-
 
 2. Bøhn E, Coates E M, Moe S, et al. Deep reinforcement learning attitude control of fixed-wing UAVs using proximal policy optimization[C]//2019 international conference on unmanned aircraft systems (ICUAS). IEEE, 2019: 523-533. [[Paper]](https://arxiv.org/pdf/1911.05478) [[Code]](https://github.com/eivindeb/fixed-wing-gym)
 
 3. Gong X, Dawei F, Xu K, et al. VVC-Gym: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
 
-
+4. Liu Q, Jiang Y, Ma X. Light Aircraft Game: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
 
 ## Applications
 
