@@ -2,9 +2,9 @@
 
 ## Surveys
 
-1. Wang X, Wang Y, Su X, et al. Deep reinforcement learning-based air combat maneuver decision-making: literature review, implementation tutorial and future direction[J]. Artificial Intelligence Review, 2024, 57(1): 1. [[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-023-10620-2.pdf)
+1. Azar A T, Koubaa A, Ali Mohamed N, et al. Drone deep reinforcement learning: A review[J]. Electronics, 2021, 10(9): 999. [[Paper]](https://www.mdpi.com/2079-9292/10/9/999/pdf)
 
-2. Azar A T, Koubaa A, Ali Mohamed N, et al. Drone deep reinforcement learning: A review[J]. Electronics, 2021, 10(9): 999. [[Paper]](https://www.mdpi.com/2079-9292/10/9/999/pdf)
+2. Wang X, Wang Y, Su X, et al. Deep reinforcement learning-based air combat maneuver decision-making: literature review, implementation tutorial and future direction[J]. Artificial Intelligence Review, 2024, 57(1): 1. [[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-023-10620-2.pdf)
 
 ## RL Environments
 
@@ -12,15 +12,15 @@
 
 2. Bøhn E, Coates E M, Moe S, et al. Deep reinforcement learning attitude control of fixed-wing UAVs using proximal policy optimization[C]//2019 international conference on unmanned aircraft systems (ICUAS). IEEE, 2019: 523-533. [[Paper]](https://arxiv.org/pdf/1911.05478) [[Code]](https://github.com/eivindeb/fixed-wing-gym)
 
-3. Gong X, Dawei F, Xu K, et al. VVC-Gym: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
+3. Liu Q, Jiang Y, Ma X. Light Aircraft Game: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
 
-4. Liu Q, Jiang Y, Ma X. Light Aircraft Game: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
+4. Gong X, Dawei F, Xu K, et al. VVC-Gym: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
 
 ### Robustness
 
-1. O’Connell M, Shi G, Shi X, et al. Neural-fly enables rapid learning for agile flight in strong winds[J]. Science Robotics, 2022, 7(66): eabm6597. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.abm6597)
+1. Mysore S, Mabsout B, Mancuso R, et al. Regularizing action policies for smooth control with reinforcement learning[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021: 1810-1816. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561138/)
 
-2. Mysore S, Mabsout B, Mancuso R, et al. Regularizing action policies for smooth control with reinforcement learning[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021: 1810-1816. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561138/)
+2. O’Connell M, Shi G, Shi X, et al. Neural-fly enables rapid learning for agile flight in strong winds[J]. Science Robotics, 2022, 7(66): eabm6597. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.abm6597)
 
 ## Sim2Real
 
