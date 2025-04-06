@@ -16,6 +16,20 @@
 
 4. Liu Q, Jiang Y, Ma X. Light Aircraft Game: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
 
+### Robustness
+
+1. O’Connell M, Shi G, Shi X, et al. Neural-fly enables rapid learning for agile flight in strong winds[J]. Science Robotics, 2022, 7(66): eabm6597. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.abm6597)
+
+2. Mysore S, Mabsout B, Mancuso R, et al. Regularizing action policies for smooth control with reinforcement learning[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021: 1810-1816. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561138/)
+
+## Sim2Real
+
+1. Loquercio A, Kaufmann E, Ranftl R, et al. Deep drone racing: From simulation to reality with domain randomization[J]. IEEE Transactions on Robotics, 2019, 36(1): 1-14. [[Paper]](https://arxiv.org/pdf/1905.09727)
+
+## Vision-Action-Language Models
+
+1. Serpiva V, Lykov A, Myshlyaev A, et al. RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour[J]. arXiv preprint arXiv:2503.02572, 2025. [[Paper]](https://arxiv.org/pdf/2503.02572)
+
 ## Applications
 
 ### Racing
@@ -43,15 +57,3 @@
 4. Hu W, Gao Z, Quan J, et al. Fixed-wing stalled maneuver control technology based on deep reinforcement learning[C]//2022 IEEE 5th International Conference on Big Data and Artificial Intelligence (BDAI). IEEE, 2022: 19-25. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9862674/)
 
 5. Cao S, Wang X, Zhang R, et al. From demonstration to flight: realization of autonomous aerobatic maneuvers for fast, miniature fixed-wing UAVs[J]. IEEE Robotics and Automation Letters, 2022, 7(2): 5771-5778. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9720976/)
-
-### Robustness
-
-1. O’Connell M, Shi G, Shi X, et al. Neural-fly enables rapid learning for agile flight in strong winds[J]. Science Robotics, 2022, 7(66): eabm6597. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.abm6597)
-
-## Sim2Real
-
-1. Loquercio A, Kaufmann E, Ranftl R, et al. Deep drone racing: From simulation to reality with domain randomization[J]. IEEE Transactions on Robotics, 2019, 36(1): 1-14. [[Paper]](https://arxiv.org/pdf/1905.09727)
-
-## Vision-Action-Language Models
-
-1. Serpiva V, Lykov A, Myshlyaev A, et al. RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour[J]. arXiv preprint arXiv:2503.02572, 2025. [[Paper]](https://arxiv.org/pdf/2503.02572)
