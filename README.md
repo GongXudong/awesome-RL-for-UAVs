@@ -12,11 +12,13 @@
 
 2. Bøhn E, Coates E M, Moe S, et al. Deep reinforcement learning attitude control of fixed-wing UAVs using proximal policy optimization[C]//2019 international conference on unmanned aircraft systems (ICUAS). IEEE, 2019: 523-533. [[Paper]](https://arxiv.org/pdf/1911.05478) [[Code]](https://github.com/eivindeb/fixed-wing-gym)
 
-3. Liu Q, Jiang Y, Ma X. Light Aircraft Game: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
+3. Song Y, Naji S, Kaufmann E, et al. Flightmare: A flexible quadrotor simulator[C]//Conference on Robot Learning. PMLR, 2021: 1147-1157. [[Paper]](https://proceedings.mlr.press/v155/song21a/song21a.pdf) [[Code]](https://github.com/uzh-rpg/flightmare)
 
-4. Gong X, Dawei F, Xu K, et al. VVC-Gym: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
+4. Liu Q, Jiang Y, Ma X. Light Aircraft Game: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
 
-### Robustness
+5. Gong X, Dawei F, Xu K, et al. VVC-Gym: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
+
+## Robustness
 
 1. Mysore S, Mabsout B, Mancuso R, et al. Regularizing action policies for smooth control with reinforcement learning[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021: 1810-1816. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561138/)
 
@@ -34,9 +36,15 @@
 
 ### Racing
 
-1. Song Y, Romero A, Müller M, et al. Reaching the limit in autonomous racing: Optimal control versus reinforcement learning[J]. Science Robotics, 2023, 8(82): eadg1462. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.adg1462)
+1. Moon H, Martinez-Carranza J, Cieslewski T, et al. Challenges and implemented technologies used in autonomous drone racing[J]. Intelligent Service Robotics, 2019, 12: 137-148. [[Paper]](https://www.zora.uzh.ch/id/eprint/197752/1/ISR19_Moon.pdf)
 
-2. Kaufmann E, Bauersfeld L, Loquercio A, et al. Champion-level drone racing using deep reinforcement learning[J]. Nature, 2023, 620(7976): 982-987. [[Paper]](https://www.nature.com/articles/s41586-023-06419-4)
+2. Loquercio A, Kaufmann E, Ranftl R, et al. Deep drone racing: From simulation to reality with domain randomization[J]. IEEE Transactions on Robotics, 2019, 36(1): 1-14. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8877728)
+
+3. De Wagter C, Paredes-Vallés F, Sheth N, et al. The sensing, state-estimation, and control behind the winning entry to the 2019 artificial intelligence robotic racing competition[J]. Field Robotics, 2022, 2: 1263-1290. [[Paper]](https://ieeexplore.ieee.org/iel8/10854677/10875999/10876009.pdf)
+
+4. Song Y, Romero A, Müller M, et al. Reaching the limit in autonomous racing: Optimal control versus reinforcement learning[J]. Science Robotics, 2023, 8(82): eadg1462. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.adg1462)
+
+5. Kaufmann E, Bauersfeld L, Loquercio A, et al. Champion-level drone racing using deep reinforcement learning[J]. Nature, 2023, 620(7976): 982-987. [[Paper]](https://www.nature.com/articles/s41586-023-06419-4)
 
 ### Attitude Control / Velocity Vector Control
 
