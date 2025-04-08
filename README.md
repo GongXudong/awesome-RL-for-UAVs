@@ -6,6 +6,8 @@
 
 2. Wang X, Wang Y, Su X, et al. Deep reinforcement learning-based air combat maneuver decision-making: literature review, implementation tutorial and future direction[J]. Artificial Intelligence Review, 2024, 57(1): 1. [[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-023-10620-2.pdf)
 
+3. Hanover D, Loquercio A, Bauersfeld L, et al. Autonomous drone racing: A survey[J]. IEEE Transactions on Robotics, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530312/)
+
 ## RL Environments
 
 1. Rennie G. (**Gym-JSBSim**) Autonomous control of simulated fixed wing aircraft using deep reinforcement learning[J]. 2018. [[Paper]](https://researchportal.bath.ac.uk/files/216919613/Rennie_Gordon.pdf) [[Code]](https://github.com/Gor-Ren/gym-jsbsim)
@@ -44,11 +46,19 @@
 
 3. De Wagter C, Paredes-Vallés F, Sheth N, et al. The artificial intelligence behind the winning entry to the 2019 ai robotic racing competition[J]. arXiv preprint arXiv:2109.14985, 2021. [[Paper]](https://arxiv.org/abs/2109.14985)
 
-4. De Wagter C, Paredes-Vallés F, Sheth N, et al. The sensing, state-estimation, and control behind the winning entry to the 2019 artificial intelligence robotic racing competition[J]. Field Robotics, 2022, 2: 1263-1290. [[Paper]](https://ieeexplore.ieee.org/iel8/10854677/10875999/10876009.pdf)
+4. Song Y, Steinweg M, Kaufmann E, et al. Autonomous drone racing with deep reinforcement learning[C]//2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021: 1205-1212. [[Paper]](https://arxiv.org/abs/2109.14985)
 
-5. Song Y, Romero A, Müller M, et al. Reaching the limit in autonomous racing: Optimal control versus reinforcement learning[J]. Science Robotics, 2023, 8(82): eadg1462. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.adg1462)
+5. Song Y, Scaramuzza D. Policy search for model predictive control with application to agile drone flight[J]. IEEE Transactions on Robotics, 2022, 38(4): 2114-2130. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9719129/)
 
-6. Kaufmann E, Bauersfeld L, Loquercio A, et al. Champion-level drone racing using deep reinforcement learning[J]. Nature, 2023, 620(7976): 982-987. [[Paper]](https://www.nature.com/articles/s41586-023-06419-4)
+6. Kaufmann E, Bauersfeld L, Scaramuzza D. A benchmark comparison of learned control policies for agile quadrotor flight[C]//2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022: 10504-10510. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9811564/)
+
+7. De Wagter C, Paredes-Vallés F, Sheth N, et al. The sensing, state-estimation, and control behind the winning entry to the 2019 artificial intelligence robotic racing competition[J]. Field Robotics, 2022, 2: 1263-1290. [[Paper]](https://ieeexplore.ieee.org/iel8/10854677/10875999/10876009.pdf)
+
+8. Song Y, Romero A, Müller M, et al. Reaching the limit in autonomous racing: Optimal control versus reinforcement learning[J]. Science Robotics, 2023, 8(82): eadg1462. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.adg1462)
+
+9. Kaufmann E, Bauersfeld L, Loquercio A, et al. Champion-level drone racing using deep reinforcement learning[J]. Nature, 2023, 620(7976): 982-987. [[Paper]](https://www.nature.com/articles/s41586-023-06419-4)
+
+10. Fu J, Song Y, Wu Y, et al. Learning deep sensorimotor policies for vision-based autonomous drone racing[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 5243-5250. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10341805/) [[Video]](https://youtu.be/AX_fcnW9yqE)
 
 ### Attitude Control / Velocity Vector Control
 
