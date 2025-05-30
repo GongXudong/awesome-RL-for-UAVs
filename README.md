@@ -14,19 +14,25 @@
 
 2. Bøhn E, Coates E M, Moe S, et al. (**Fixed-Wing-Gym**) Deep reinforcement learning attitude control of fixed-wing UAVs using proximal policy optimization[C]//2019 international conference on unmanned aircraft systems (ICUAS). IEEE, 2019: 523-533. [[Paper]](https://arxiv.org/pdf/1911.05478) [[Code]](https://github.com/eivindeb/fixed-wing-gym)
 
-3. Song Y, Naji S, Kaufmann E, et al. **Flightmare**: A flexible quadrotor simulator[C]//Conference on Robot Learning. PMLR, 2021: 1147-1157. [[Paper]](https://proceedings.mlr.press/v155/song21a/song21a.pdf) [[Code]](https://github.com/uzh-rpg/flightmare)
+3. Madaan R, Gyde N, Vemprala S, et al. Airsim drone racing lab[C]//Neurips 2019 competition and demonstration track. PMLR, 2020: 177-191. [[Paper]](http://proceedings.mlr.press/v123/madaan20a.html) [[Code]](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing)
 
-4. Liu Q, Jiang Y, Ma X. **Light Aircraft Game**: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
+4. Song Y, Naji S, Kaufmann E, et al. **Flightmare**: A flexible quadrotor simulator[C]//Conference on Robot Learning. PMLR, 2021: 1147-1157. [[Paper]](https://proceedings.mlr.press/v155/song21a/song21a.pdf) [[Code]](https://github.com/uzh-rpg/flightmare)
 
-5. Gong X, Dawei F, Xu K, et al. **VVC-Gym**: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
+5. Liu Q, Jiang Y, Ma X. **Light Aircraft Game**: A lightweight, scalable, gym-wrapped aircraft competitive environment with baseline reinforcement learning algorithms. Github. 2022. [[Code]](https://github.com/liuqh16/LAG)
 
-6. Kulkarni M, Rehberg W, Alexis K. **Aerial Gym Simulator**: A Framework for Highly Parallelized Simulation of Aerial Robots[J]. IEEE Robotics and Automation Letters, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10910148/) [[Code]](https://github.com/ntnu-arl/aerial_gym_simulator)
+6. Chan J H, Liu K, Chen Y, et al. Reinforcement learning-based drone simulators: survey, practice, and challenge[J]. Artificial Intelligence Review, 2024, 57(10): 281. [[Paper]](https://link.springer.com/article/10.1007/s10462-024-10933-w)
+
+7. Gong X, Dawei F, Xu K, et al. **VVC-Gym**: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
+
+8. Kulkarni M, Rehberg W, Alexis K. **Aerial Gym Simulator**: A Framework for Highly Parallelized Simulation of Aerial Robots[J]. IEEE Robotics and Automation Letters, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10910148/) [[Code]](https://github.com/ntnu-arl/aerial_gym_simulator)
 
 ## Robustness
 
 1. Mysore S, Mabsout B, Mancuso R, et al. Regularizing action policies for smooth control with reinforcement learning[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021: 1810-1816. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9561138/)
 
 2. O’Connell M, Shi G, Shi X, et al. Neural-fly enables rapid learning for agile flight in strong winds[J]. Science Robotics, 2022, 7(66): eabm6597. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.abm6597)
+
+3. Loquercio A, Kaufmann E, Ranftl R, et al. Learning high-speed flight in the wild[J]. Science Robotics, 2021, 6(59): eabg5810. [[Paper]](https://www.science.org/doi/abs/10.1126/scirobotics.abg5810)
 
 ## Sim2Real
 
@@ -37,6 +43,12 @@
 1. Serpiva V, Lykov A, Myshlyaev A, et al. RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour[J]. arXiv preprint arXiv:2503.02572, 2025. [[Paper]](https://arxiv.org/pdf/2503.02572)
 
 ## Applications
+
+### Trajectory tracking
+
+1. Loquercio A, Kaufmann E, Ranftl R, et al. Deep drone racing: From simulation to reality with domain randomization[J]. IEEE Transactions on Robotics, 2019, 36(1): 1-14. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8877728)
+
+2. Chen J, Yu C, Xie Y, et al. What Matters in Learning A Zero-Shot Sim-to-Real RL Policy for Quadrotor Control? A Comprehensive Study[J]. IEEE Robotics and Automation Letters, 2024. [[Paper]](https://arxiv.org/abs/2412.11764)
 
 ### Racing
 
@@ -79,3 +91,5 @@
 4. Hu W, Gao Z, Quan J, et al. Fixed-wing stalled maneuver control technology based on deep reinforcement learning[C]//2022 IEEE 5th International Conference on Big Data and Artificial Intelligence (BDAI). IEEE, 2022: 19-25. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9862674/)
 
 5. Cao S, Wang X, Zhang R, et al. From demonstration to flight: realization of autonomous aerobatic maneuvers for fast, miniature fixed-wing UAVs[J]. IEEE Robotics and Automation Letters, 2022, 7(2): 5771-5778. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9720976/)
+
+6. Yin Z, Zheng C, Guo S, et al. TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning[J]. arXiv preprint arXiv:2503.01125, 2025. [[Paper]](https://arxiv.org/abs/2503.01125)
