@@ -14,7 +14,7 @@
 
 2. Bøhn E, Coates E M, Moe S, et al. (**Fixed-Wing-Gym**) Deep reinforcement learning attitude control of fixed-wing UAVs using proximal policy optimization[C]//2019 international conference on unmanned aircraft systems (ICUAS). IEEE, 2019: 523-533. [[Paper]](https://arxiv.org/pdf/1911.05478) [[Code]](https://github.com/eivindeb/fixed-wing-gym)
 
-3. Madaan R, Gyde N, Vemprala S, et al. Airsim drone racing lab[C]//Neurips 2019 competition and demonstration track. PMLR, 2020: 177-191. [[Paper]](http://proceedings.mlr.press/v123/madaan20a.html) [[Code]](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing)
+3. Madaan R, Gyde N, Vemprala S, et al. **Airsim** drone racing lab[C]//Neurips 2019 competition and demonstration track. PMLR, 2020: 177-191. [[Paper]](http://proceedings.mlr.press/v123/madaan20a.html) [[Code]](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing)
 
 4. Song Y, Naji S, Kaufmann E, et al. **Flightmare**: A flexible quadrotor simulator[C]//Conference on Robot Learning. PMLR, 2021: 1147-1157. [[Paper]](https://proceedings.mlr.press/v155/song21a/song21a.pdf) [[Code]](https://github.com/uzh-rpg/flightmare)
 
@@ -25,6 +25,8 @@
 7. Gong X, Dawei F, Xu K, et al. **VVC-Gym**: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. 2025. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
 
 8. Kulkarni M, Rehberg W, Alexis K. **Aerial Gym Simulator**: A Framework for Highly Parallelized Simulation of Aerial Robots[J]. IEEE Robotics and Automation Letters, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10910148/) [[Code]](https://github.com/ntnu-arl/aerial_gym_simulator)
+
+9. Xu B, Gao F, Yu C, et al. **Omnidrones**: An efficient and flexible platform for reinforcement learning in drone control[J]. IEEE Robotics and Automation Letters, 2024, 9(3): 2838-2844. [[Paper]](https://ieeexplore.ieee.org/iel7/7083369/7339444/10409589.pdf) [[Code]](https://github.com/btx0424/OmniDrones)
 
 ## Robustness
 
