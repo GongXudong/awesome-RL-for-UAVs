@@ -52,7 +52,7 @@
 
 2. Chen J, Yu C, Xie Y, et al. What Matters in Learning A Zero-Shot Sim-to-Real RL Policy for Quadrotor Control? A Comprehensive Study[J]. IEEE Robotics and Automation Letters, 2024. [[Paper]](https://arxiv.org/abs/2412.11764)
 
-### Racing
+### Racing / Agile Flight
 
 1. Moon H, Martinez-Carranza J, Cieslewski T, et al. Challenges and implemented technologies used in autonomous drone racing[J]. Intelligent Service Robotics, 2019, 12: 137-148. [[Paper]](https://www.zora.uzh.ch/id/eprint/197752/1/ISR19_Moon.pdf)
 
@@ -73,6 +73,8 @@
 9. Kaufmann E, Bauersfeld L, Loquercio A, et al. Champion-level drone racing using deep reinforcement learning[J]. Nature, 2023, 620(7976): 982-987. [[Paper]](https://www.nature.com/articles/s41586-023-06419-4)
 
 10. Fu J, Song Y, Wu Y, et al. Learning deep sensorimotor policies for vision-based autonomous drone racing[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 5243-5250. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10341805/) [[Video]](https://youtu.be/AX_fcnW9yqE)
+
+11. Zhang Y, Hu Y, Song Y, et al. Learning vision-based agile flight via differentiable physics[J]. Nature Machine Intelligence, 2025: 1-13. [[Paper]](https://www.nature.com/articles/s42256-025-01048-0) [[Project]](https://henryhuyu.github.io/DiffPhysDrone_Web/)
 
 ### Attitude Control / Velocity Vector Control
 
