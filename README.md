@@ -8,6 +8,8 @@
 
 3. Hanover D, Loquercio A, Bauersfeld L, et al. Autonomous drone racing: A survey[J]. IEEE Transactions on Robotics, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530312/)
 
+4. Richter D J, Calix R A, Kim K. A review of reinforcement learning for fixed-wing aircraft control tasks[J]. IEEE Access, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10609369/)
+
 ## RL Environments
 
 1. Rennie G. (**Gym-JSBSim**) Autonomous control of simulated fixed wing aircraft using deep reinforcement learning[J]. 2018. [[Paper]](https://researchportal.bath.ac.uk/files/216919613/Rennie_Gordon.pdf) [[Code]](https://github.com/Gor-Ren/gym-jsbsim)
@@ -90,10 +92,20 @@
 
 2. Kong W, Zhou D, Yang Z, et al. Maneuver strategy generation of UCAV for within visual range air combat based on multi-agent reinforcement learning and target position prediction[J]. Applied Sciences, 2020, 10(15): 5198. [[Paper]](https://www.mdpi.com/2076-3417/10/15/5198)
 
-3. Pope A P, Ide J S, Mićović D, et al. Hierarchical reinforcement learning for air-to-air combat[C]//2021 international conference on unmanned aircraft systems (ICUAS). IEEE, 2021: 275-284. [[Paper]](https://arxiv.org/pdf/2105.00990)
+3. Clarke S G, Hwang I. Deep reinforcement learning control for aerobatic maneuvering of agile fixed-wing aircraft[C]//AIAA Scitech 2020 Forum. 2020: 0136. [[Paper]](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0136)
 
-4. Hu W, Gao Z, Quan J, et al. Fixed-wing stalled maneuver control technology based on deep reinforcement learning[C]//2022 IEEE 5th International Conference on Big Data and Artificial Intelligence (BDAI). IEEE, 2022: 19-25. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9862674/)
+4. Pope A P, Ide J S, Mićović D, et al. Hierarchical reinforcement learning for air-to-air combat[C]//2021 international conference on unmanned aircraft systems (ICUAS). IEEE, 2021: 275-284. [[Paper]](https://arxiv.org/pdf/2105.00990)
 
-5. Cao S, Wang X, Zhang R, et al. From demonstration to flight: realization of autonomous aerobatic maneuvers for fast, miniature fixed-wing UAVs[J]. IEEE Robotics and Automation Letters, 2022, 7(2): 5771-5778. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9720976/)
+5. Pope A P, Ide J S, Mićović D, et al. Hierarchical reinforcement learning for air combat at DARPA's AlphaDogfight trials[J]. IEEE Transactions on Artificial Intelligence, 2022, 4(6): 1371-1385. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9950612/)
 
-6. Yin Z, Zheng C, Guo S, et al. TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning[J]. arXiv preprint arXiv:2503.01125, 2025. [[Paper]](https://arxiv.org/abs/2503.01125)
+6. Hu W, Gao Z, Quan J, et al. Fixed-wing stalled maneuver control technology based on deep reinforcement learning[C]//2022 IEEE 5th International Conference on Big Data and Artificial Intelligence (BDAI). IEEE, 2022: 19-25. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9862674/)
+
+7. Cao S, Wang X, Zhang R, et al. From demonstration to flight: realization of autonomous aerobatic maneuvers for fast, miniature fixed-wing UAVs[J]. IEEE Robotics and Automation Letters, 2022, 7(2): 5771-5778. [[Paper]] (https://ieeexplore.ieee.org/abstract/document/9720976/)
+
+8. Li L, Zhang X, Qian C, et al. Basic flight maneuver generation of fixed-wing plane based on proximal policy optimization[J]. Neural Computing and Applications, 2023, 35(14): 10239-10255. [[Paper]](https://link.springer.com/article/10.1007/s00521-023-08232-6)
+
+9. Yin Z, Zheng C, Guo S, et al. TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning[J]. arXiv preprint arXiv:2503.01125, 2025. [[Paper]](https://arxiv.org/abs/2503.01125)
+
+### Combat
+
+1. Bae J H, Jung H, Kim S, et al. Deep reinforcement learning-based air-to-air combat maneuver generation in a realistic environment[J]. IEEE Access, 2023, 11: 26427-26440. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10072404/)
