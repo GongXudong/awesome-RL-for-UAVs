@@ -54,6 +54,8 @@
 
 2. Chen J, Yu C, Xie Y, et al. What Matters in Learning A Zero-Shot Sim-to-Real RL Policy for Quadrotor Control? A Comprehensive Study[J]. IEEE Robotics and Automation Letters, 2024. [[Paper]](https://arxiv.org/abs/2412.11764)
 
+3. Sun H, Hu J, Zhang Z, et al. Open-world drone active tracking with goal-centered rewards[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=Ly2wXKIByI) [[Code]](https://github.com/SHWplus/DAT_Benchmark)
+
 ### Racing / Agile Flight
 
 1. Moon H, Martinez-Carranza J, Cieslewski T, et al. Challenges and implemented technologies used in autonomous drone racing[J]. Intelligent Service Robotics, 2019, 12: 137-148. [[Paper]](https://www.zora.uzh.ch/id/eprint/197752/1/ISR19_Moon.pdf)
@@ -109,3 +111,44 @@
 ### Combat
 
 1. Bae J H, Jung H, Kim S, et al. Deep reinforcement learning-based air-to-air combat maneuver generation in a realistic environment[J]. IEEE Access, 2023, 11: 26427-26440. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10072404/)
+
+2. Fan Z, Xu Y, Kang Y, et al. Air combat maneuver decision method based on A3C deep reinforcement learning[J]. Machines, 2022, 10(11): 1033. [[Paper]](https://www.mdpi.com/2075-1702/10/11/1033)
+
+3. Mei J, Li G, Huang H. Deep reinforcement-learning-based air-combat-maneuver generation framework[J]. Mathematics, 2024, 12(19): 3020. [[Paper]](https://www.mdpi.com/2227-7390/12/19/3020)
+
+4. Hu J, Wang L, Hu T, et al. Autonomous maneuver decision making of dual-UAV cooperative air combat based on deep reinforcement learning[J]. Electronics, 2022, 11(3): 467. [[Paper]](https://www.mdpi.com/2079-9292/11/3/467)
+
+5. Yang Q, Zhang J, Shi G, et al. Maneuver decision of UAV in short-range air combat based on deep reinforcement learning[J]. IEEE Access, 2019, 8: 363-378. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8938773/)
+
+6. Hu D, Yang R, Zuo J, et al. Application of deep reinforcement learning in maneuver planning of beyond-visual-range air combat[J]. IEEE Access, 2021, 9: 32282-32297. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9358136/)
+
+7. Kong W, Zhou D, Yang Z, et al. UAV autonomous aerial combat maneuver strategy generation with observation error based on state-adversarial deep deterministic policy gradient and inverse reinforcement learning[J]. Electronics, 2020, 9(7): 1121. [[Paper]](https://www.mdpi.com/2079-9292/9/7/1121)
+
+8. Zhang T, Wang Y, Sun M, et al. Air combat maneuver decision based on deep reinforcement learning with auxiliary reward[J]. Neural Computing and Applications, 2024, 36(21): 13341-13356. [[Paper]](https://link.springer.com/article/10.1007/s00521-024-09720-z)
+
+9. Zheng Z, Duan H. UAV maneuver decision-making via deep reinforcement learning for short-range air combat[J]. Intelligence & Robotics, 2023, 3(1): 76-94. [[Paper]](https://www.oaepublish.com/articles/ir.2023.04)
+
+10. Kong W, Zhou D, Yang Z, et al. Maneuver strategy generation of UCAV for within visual range air combat based on multi-agent reinforcement learning and target position prediction[J]. Applied Sciences, 2020, 10(15): 5198. [[Paper]](https://www.mdpi.com/2076-3417/10/15/5198)
+
+11. Yang J, Wang L, Han J, et al. An air combat maneuver decision-making approach using coupled reward in deep reinforcement learning[J]. Complex & Intelligent Systems, 2025, 11(8): 1-17. [[Paper]](https://link.springer.com/article/10.1007/s40747-025-01992-9)
+
+12. Wang Z, Li H, Wu H, et al. Improving maneuver strategy in air combat by alternate freeze games with a deep reinforcement learning algorithm[J]. Mathematical Problems in Engineering, 2020, 2020(1): 7180639. [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1155/2020/7180639)
+
+13. Li D, Dong W, He L, et al. Air Combat Maneuver Decision Based on Deep Reinforcement Learning with Expert Guidance[J]. International Journal of Aeronautical and Space Sciences, 2025: 1-21. [[Paper]](https://link.springer.com/article/10.1007/s42405-025-01036-z)
+
+14. Selmonaj A, Szehr O, Del Rio G, et al. Hierarchical multi-agent reinforcement learning for air combat maneuvering[C]//2023 International Conference on Machine Learning and Applications (ICMLA). IEEE, 2023: 1031-1038. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10459738/)
+
+15. Zheng Z, Wei C, Duan H. UAV swarm air combat maneuver decision-making method based on multi-agent reinforcement learning and transferring[J]. Science China Information Sciences, 2024, 67(8): 180204. [[Paper]](https://link.springer.com/article/10.1007/s11432-023-4088-2)
+
+16. Yang Q, Zhu Y, Zhang J, et al. UAV air combat autonomous maneuver decision based on DDPG algorithm[C]//2019 IEEE 15th international conference on control and automation (ICCA). IEEE, 2019: 37-42. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8899703/)
+
+17. Wang L, Wang J, Liu H, et al. Decision-making strategies for close-range air combat based on reinforcement learning with variable-scale actions[J]. Aerospace, 2023, 10(5): 401. [[Paper]](https://www.mdpi.com/2226-4310/10/5/401)
+
+18. Zhu J, Kuang M, Zhou W, et al. Mastering air combat game with deep reinforcement learning[J]. Defence Technology, 2024, 34: 295-312. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2214914723002349)
+
+19. Yang K, Dong W, Cai M, et al. UCAV air combat maneuver decisions based on a proximal policy optimization algorithm with situation reward shaping[J]. Electronics, 2022, 11(16): 2602. [[Paper]](https://www.mdpi.com/2079-9292/11/16/2602)
+
+20. Costa A N, Dantas J P A, Scukins E, et al. Simulation and Machine Learning in Beyond Visual Range Air Combat: A Survey[J]. IEEE Access, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10975034/)
+
+21. Piao H, Sun Z, Meng G, et al. Beyond-visual-range air combat tactics auto-generation by reinforcement learning[C]//2020 international joint conference on neural networks (IJCNN). IEEE, 2020: 1-8. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9207088/)
+
